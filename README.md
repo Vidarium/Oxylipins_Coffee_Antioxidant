@@ -1,12 +1,10 @@
 ##### ©Vidarium 2020
 
 This repository includes a code used in the oxylipins analysis from macrophages foam cells as supplementary information for the manuscript: 
-
 #### Lara-Guzmán Oscar J., Medina Sonia, Álvarez Rafael, Oger Camille, Durand Thierry, Galano Jean-Marie, Zuluaga Natalia, Gil-Izquierdo Ángel and Katalina Muñoz-Durango, 2020.Oxylipin regulation by phenolic compounds from coffee beverage:  positive outcomes from a randomized controlled trial in healthy adults and macrophage derived foam cells. 
 Which is currently submitting to Free Radical Biology & Medicine journal as a research article.
 
 The file Oxylipins_CGAs_FoamCells.R is a commented R script that requires the provided database file Oxylipins_CGAs_FoamCells.csv to properly run.  
-
 RStudio and R software used: R i386 3.6.1
 
 ### Summary step by step:
