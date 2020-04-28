@@ -36,4 +36,3 @@ RStudio and R software used: R i386 3.6.1
 10.	Calculate the eigenvalues with “get_eigenvalue” command and visualize this with “fviz_eig”.
 11.	Use “fviz_pca_ind” and “fviz_pca_var” to visualize the PCA score and loading plots.
 12.	Use  “dimdesc”  to estimate the correlations and P-value for each variable in PC1 and PC2.
-
