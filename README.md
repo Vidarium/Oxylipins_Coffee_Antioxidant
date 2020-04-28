@@ -2,7 +2,7 @@ Oxylipins_Coffee_Antioxidant
 
 This repository includes a code and the database for statistical analyses of oxylipins in the foam cell model as supplementary material for the manuscript:  
 
-Oscar J. Lara-Guzmán, Sonia Medina, Rafael Álvarez, Camille Oger, Thierry Durand, Jean-Marie Galano, Natalia Zuluaga, Ángel Gil-Izquierdo and Katalina Muñoz-Durango. 2020.Oxylipin regulation by phenolic compounds from coffee beverage:  positive outcomes from a randomized controlled trial in healthy adults and macrophage derived foam cells. 
+Oscar J. Lara-Guzmán, Sonia Medina, Rafael Álvarez, Camille Oger, Thierry Durand, Jean-Marie Galano, Natalia Zuluaga, Ángel Gil-Izquierdo and Katalina Muñoz-Durango. 2020. Oxylipin regulation by phenolic compounds from coffee beverage:  positive outcomes from a randomized controlled trial in healthy adults and macrophage derived foam cells. 
 The manuscript is currently submitted to Free Radical Biology & Medicine journal as a research article.
 
 The file Oxylipins_CGAs_FoamCells.R is a commented R script that requires the provided database file Oxylipins_CGAs_FoamCells.csv to properly run.  
